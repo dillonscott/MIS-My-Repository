@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IN class 2-22- cointoss and loops", "IN class 2-22- cointoss and loops\IN class 2-22- cointoss and loops.csproj", "{742B8E0E-6FC0-4020-A731-A1DE542515BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{742B8E0E-6FC0-4020-A731-A1DE542515BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742B8E0E-6FC0-4020-A731-A1DE542515BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742B8E0E-6FC0-4020-A731-A1DE542515BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742B8E0E-6FC0-4020-A731-A1DE542515BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B865CAA-0714-49C9-8808-4649BEC11377}
+	EndGlobalSection
+EndGlobal
