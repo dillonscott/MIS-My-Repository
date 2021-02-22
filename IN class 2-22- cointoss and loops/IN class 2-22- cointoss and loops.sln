@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IN class 2-22- cointoss and
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop example in class", "Loop example in class\Loop example in class.csproj", "{B34C733F-BFA6-4154-A559-B4C29BC1DA0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops with methods", "Loops with methods\Loops with methods.csproj", "{ED3225C0-210C-487D-93C9-93AC8EDAF233}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B34C733F-BFA6-4154-A559-B4C29BC1DA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B34C733F-BFA6-4154-A559-B4C29BC1DA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B34C733F-BFA6-4154-A559-B4C29BC1DA0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3225C0-210C-487D-93C9-93AC8EDAF233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3225C0-210C-487D-93C9-93AC8EDAF233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3225C0-210C-487D-93C9-93AC8EDAF233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3225C0-210C-487D-93C9-93AC8EDAF233}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
