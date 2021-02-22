@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IN class 2-22- cointoss and loops", "IN class 2-22- cointoss and loops\IN class 2-22- cointoss and loops.csproj", "{742B8E0E-6FC0-4020-A731-A1DE542515BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop example in class", "Loop example in class\Loop example in class.csproj", "{B34C733F-BFA6-4154-A559-B4C29BC1DA0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{742B8E0E-6FC0-4020-A731-A1DE542515BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{742B8E0E-6FC0-4020-A731-A1DE542515BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{742B8E0E-6FC0-4020-A731-A1DE542515BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B34C733F-BFA6-4154-A559-B4C29BC1DA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34C733F-BFA6-4154-A559-B4C29BC1DA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34C733F-BFA6-4154-A559-B4C29BC1DA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34C733F-BFA6-4154-A559-B4C29BC1DA0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
