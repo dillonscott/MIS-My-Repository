@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coin toss - participation",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guess a number - loops - participations", "guess a number - loops - participations\guess a number - loops - participations.csproj", "{3A53EBBE-4F6E-40B9-84AF-B95ED823F1FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2 - GPA", "HW2 - GPA\HW2 - GPA.csproj", "{8DD0E06C-0C8D-40A1-AACC-B61045DB792F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3A53EBBE-4F6E-40B9-84AF-B95ED823F1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A53EBBE-4F6E-40B9-84AF-B95ED823F1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A53EBBE-4F6E-40B9-84AF-B95ED823F1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD0E06C-0C8D-40A1-AACC-B61045DB792F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD0E06C-0C8D-40A1-AACC-B61045DB792F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD0E06C-0C8D-40A1-AACC-B61045DB792F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD0E06C-0C8D-40A1-AACC-B61045DB792F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
