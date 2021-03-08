@@ -23,7 +23,7 @@ namespace HW2___GPA
             string econletter;
             string misletter;
             double pointssofar = 0;
-            const double creditsattempted = 12;
+            const double creditsattempted = 16;
 
             if (accgrade >= 90)
             {

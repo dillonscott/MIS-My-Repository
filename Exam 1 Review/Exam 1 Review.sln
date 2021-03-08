@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guess a number - loops - pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2 - GPA", "HW2 - GPA\HW2 - GPA.csproj", "{8DD0E06C-0C8D-40A1-AACC-B61045DB792F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2 Trivia Quiz", "HW2 Trivia Quiz\HW2 Trivia Quiz.csproj", "{4B8B3885-1AE1-4246-842C-B44A1560949B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{8DD0E06C-0C8D-40A1-AACC-B61045DB792F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DD0E06C-0C8D-40A1-AACC-B61045DB792F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DD0E06C-0C8D-40A1-AACC-B61045DB792F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8B3885-1AE1-4246-842C-B44A1560949B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8B3885-1AE1-4246-842C-B44A1560949B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8B3885-1AE1-4246-842C-B44A1560949B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8B3885-1AE1-4246-842C-B44A1560949B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
