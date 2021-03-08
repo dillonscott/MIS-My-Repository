@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW2 Trivia Quiz", "HW2 Triv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW3 - calories burned", "HW3 - calories burned\HW3 - calories burned.csproj", "{1F0E4FBA-4948-4F15-A609-7A6693826A82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW3 - Tutor (math question)", "HW3 - Tutor (math question)\HW3 - Tutor (math question).csproj", "{968DA3F5-EB09-4F3E-B8F6-C0D496677EBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{1F0E4FBA-4948-4F15-A609-7A6693826A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F0E4FBA-4948-4F15-A609-7A6693826A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F0E4FBA-4948-4F15-A609-7A6693826A82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{968DA3F5-EB09-4F3E-B8F6-C0D496677EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968DA3F5-EB09-4F3E-B8F6-C0D496677EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968DA3F5-EB09-4F3E-B8F6-C0D496677EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968DA3F5-EB09-4F3E-B8F6-C0D496677EBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
