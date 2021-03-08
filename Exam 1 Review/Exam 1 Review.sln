@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1 Sales Total", "HW1 Sale
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1 part2 - student grade", "HW1 part2 - student grade\HW1 part2 - student grade.csproj", "{E048D9DC-12B3-4796-86CC-69DCDD4C88C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coin toss - participation", "Coin toss - participation\Coin toss - participation.csproj", "{B2F09477-A0E0-48C7-8803-80A42139CBBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E048D9DC-12B3-4796-86CC-69DCDD4C88C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E048D9DC-12B3-4796-86CC-69DCDD4C88C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E048D9DC-12B3-4796-86CC-69DCDD4C88C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2F09477-A0E0-48C7-8803-80A42139CBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F09477-A0E0-48C7-8803-80A42139CBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F09477-A0E0-48C7-8803-80A42139CBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F09477-A0E0-48C7-8803-80A42139CBBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
