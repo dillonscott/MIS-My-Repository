@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW3 - Tutor (math question)
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW 3 - tuition increase", "HW 3 - tuition increase\HW 3 - tuition increase.csproj", "{63E846AA-474D-4539-B005-A355C0903EF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string manipulation - participation", "string manipulation - participation\string manipulation - participation.csproj", "{6FC27522-5EB1-4D75-ADAA-C90DFCFF3EE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{63E846AA-474D-4539-B005-A355C0903EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63E846AA-474D-4539-B005-A355C0903EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63E846AA-474D-4539-B005-A355C0903EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC27522-5EB1-4D75-ADAA-C90DFCFF3EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC27522-5EB1-4D75-ADAA-C90DFCFF3EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC27522-5EB1-4D75-ADAA-C90DFCFF3EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC27522-5EB1-4D75-ADAA-C90DFCFF3EE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
