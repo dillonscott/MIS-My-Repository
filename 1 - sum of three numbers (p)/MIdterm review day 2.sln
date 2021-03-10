@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw3 tuition increase", "Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string manipulation participation", "string manipulation participation\string manipulation participation.csproj", "{FC2DFBE3-B696-4978-BB4B-C0B12EBBBAC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw 4 vowels and consonants", "hw 4 vowels and consonants\hw 4 vowels and consonants.csproj", "{B6286A83-C791-4CA9-864A-08D629E41E49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{FC2DFBE3-B696-4978-BB4B-C0B12EBBBAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC2DFBE3-B696-4978-BB4B-C0B12EBBBAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC2DFBE3-B696-4978-BB4B-C0B12EBBBAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6286A83-C791-4CA9-864A-08D629E41E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6286A83-C791-4CA9-864A-08D629E41E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6286A83-C791-4CA9-864A-08D629E41E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6286A83-C791-4CA9-864A-08D629E41E49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
