@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string manipulation partici
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw 4 vowels and consonants", "hw 4 vowels and consonants\hw 4 vowels and consonants.csproj", "{B6286A83-C791-4CA9-864A-08D629E41E49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw 4 i337 converter", "hw 4 i337 converter\hw 4 i337 converter.csproj", "{1634EB61-DBBE-4DEB-B0CE-A303EA4473C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{B6286A83-C791-4CA9-864A-08D629E41E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6286A83-C791-4CA9-864A-08D629E41E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6286A83-C791-4CA9-864A-08D629E41E49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1634EB61-DBBE-4DEB-B0CE-A303EA4473C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1634EB61-DBBE-4DEB-B0CE-A303EA4473C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1634EB61-DBBE-4DEB-B0CE-A303EA4473C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1634EB61-DBBE-4DEB-B0CE-A303EA4473C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
