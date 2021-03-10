@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW4 vowelsandconsonants", "midterm review day of\HW4 vowelsandconsonants.csproj", "{8B0A470A-E0C7-48F6-83F7-16AD3F6CE2B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B0A470A-E0C7-48F6-83F7-16AD3F6CE2B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0A470A-E0C7-48F6-83F7-16AD3F6CE2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0A470A-E0C7-48F6-83F7-16AD3F6CE2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0A470A-E0C7-48F6-83F7-16AD3F6CE2B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A97AA78C-DCC1-4073-825B-B1BD3EE79AB7}
+	EndGlobalSection
+EndGlobal
