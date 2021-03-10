@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 - sum of three numbers (p)", "1 - sum of three numbers (p)\1 - sum of three numbers (p).csproj", "{2723F26E-41DB-405E-B98B-DEE2FA3F72F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1 - sum of three numbers (p)", "1 - sum of three numbers (p)\1 - sum of three numbers (p).csproj", "{2723F26E-41DB-405E-B98B-DEE2FA3F72F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1 salestotal", "HW1 salestotal\HW1 salestotal.csproj", "{6116C8FD-8880-4C2F-A9B4-3C09D7B7C9C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2723F26E-41DB-405E-B98B-DEE2FA3F72F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2723F26E-41DB-405E-B98B-DEE2FA3F72F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2723F26E-41DB-405E-B98B-DEE2FA3F72F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6116C8FD-8880-4C2F-A9B4-3C09D7B7C9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6116C8FD-8880-4C2F-A9B4-3C09D7B7C9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6116C8FD-8880-4C2F-A9B4-3C09D7B7C9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6116C8FD-8880-4C2F-A9B4-3C09D7B7C9C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
