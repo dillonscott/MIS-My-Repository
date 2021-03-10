@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cointoss (p)", "Cointoss (p
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guess a number participation", "guess a number participation\guess a number participation.csproj", "{F8D1D55E-0446-4EBF-8782-9BD028776943}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW3 time to burn calories", "HW3 time to burn calories\HW3 time to burn calories.csproj", "{75F51BC3-49E5-4CB9-84CD-23EA09794416}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F8D1D55E-0446-4EBF-8782-9BD028776943}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8D1D55E-0446-4EBF-8782-9BD028776943}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8D1D55E-0446-4EBF-8782-9BD028776943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F51BC3-49E5-4CB9-84CD-23EA09794416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F51BC3-49E5-4CB9-84CD-23EA09794416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F51BC3-49E5-4CB9-84CD-23EA09794416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F51BC3-49E5-4CB9-84CD-23EA09794416}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
