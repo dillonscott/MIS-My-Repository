@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW3 time to burn calories",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw3 tutor(math problem)", "hw3 tutor(math problem)\hw3 tutor(math problem).csproj", "{5CD24DEC-759F-4631-B820-DBDD45CE38D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw3 tuition increase", "ConsoleApp1\hw3 tuition increase.csproj", "{9EE90430-DC45-49F4-AC7E-D03BD9835BB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5CD24DEC-759F-4631-B820-DBDD45CE38D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CD24DEC-759F-4631-B820-DBDD45CE38D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CD24DEC-759F-4631-B820-DBDD45CE38D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE90430-DC45-49F4-AC7E-D03BD9835BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE90430-DC45-49F4-AC7E-D03BD9835BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE90430-DC45-49F4-AC7E-D03BD9835BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE90430-DC45-49F4-AC7E-D03BD9835BB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
