@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections- finding mode", "Collections- finding mode\Collections- finding mode.csproj", "{576306A4-E837-4868-AD6B-D9DBD2F891BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{576306A4-E837-4868-AD6B-D9DBD2F891BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576306A4-E837-4868-AD6B-D9DBD2F891BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576306A4-E837-4868-AD6B-D9DBD2F891BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576306A4-E837-4868-AD6B-D9DBD2F891BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1575592-1088-46C7-8E2F-74C38152E0E3}
+	EndGlobalSection
+EndGlobal
