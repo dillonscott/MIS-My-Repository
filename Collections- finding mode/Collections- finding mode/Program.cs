@@ -27,6 +27,8 @@ namespace Collections__finding_mode
             } while (answer.ToLower()[0] == 'y');
 
             double min = examScores[0];
+            double max = examScores[0];
+            double sum = 0, avg = 0;
 
             foreach (double score in examScores)
             {
@@ -34,6 +36,11 @@ namespace Collections__finding_mode
                 {
                     min = score;
                 }
+                if (score>max)
+                {
+                    max = score;
+                }
+                sum += score;
 
                 if (exams.ContainsKey(score) == true)
                 {
@@ -45,8 +52,12 @@ namespace Collections__finding_mode
                 }
 
             }
+            avg = sum / examScores.Count;
 
             Console.WriteLine($"Your min score was {min.ToString("n2")}");
+            Console.WriteLine($"Your max score was {max.ToString("n2")}");
+            Console.WriteLine($"Your avg score was {avg.ToString("n2")}");
+
             int mode = 0;
             foreach (double scoreKey in exams.Keys)
             {
