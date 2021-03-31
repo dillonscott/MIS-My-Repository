@@ -6,4 +6,10 @@
     <RootNamespace>Collections__finding_mode</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Update="AccountBalances.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
