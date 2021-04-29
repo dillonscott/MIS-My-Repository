@@ -34,6 +34,7 @@ namespace ShowMeWhatYouLearned_ExtraCredit
 
                 customerList.Add(c);
 
+                
 
             }
 
@@ -44,6 +45,10 @@ namespace ShowMeWhatYouLearned_ExtraCredit
                     double totatInt = customers.CalculateInt();
                     Console.WriteLine(customers);
                     Console.WriteLine($"\t{customers.FirstName} {customers.LastName} ({customers.CustomerID}) will pay total interest of {totatInt.ToString("C")}");
+                    foreach (double payment in customers.Payments.Values)
+                    {
+                        Console.WriteLine($"\tMonthly Payment: {payment.ToString("C")}");
+                    }
 
                 }
             }
@@ -53,16 +58,61 @@ namespace ShowMeWhatYouLearned_ExtraCredit
                 if (customers.MortgageRemaining == 0)
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
-                    Console.WriteLine(customers);
+                    Console.WriteLine($"\n{customers}");
                     Console.ForegroundColor = ConsoleColor.White;
                 }
             }
+            string ans1;
+            string ans2;
+            Console.WriteLine("\nWould you like to add a new customer?");
+            ans1 = Console.ReadLine();
+            do
+            {
+                
+                if (ans1[0] == 'y')
+                {
+                    Console.WriteLine("What is the customers first name?");
+                    string fname = Console.ReadLine();
 
-            Console.WriteLine("Is there a specific customer you would like to search for? (Y/N)");
+                    Console.WriteLine("What is the customers last name?");
+                    string lname = Console.ReadLine();
+
+                    Console.WriteLine("What is the customers address?");
+                    string addy = Console.ReadLine();
+
+                    Console.WriteLine("What is the customers property cost?");
+                    double cost = Convert.ToDouble(Console.ReadLine());
+
+                    Console.WriteLine("What is the customers interest rate? (In decimal form)");
+                    double inRate = Convert.ToDouble(Console.ReadLine());
+
+                    Customer c2 = new Customer();
+                    c2.FirstName = fname;
+                    c2.LastName = lname;
+                    c2.Address = addy;
+                    c2.PropertyCost = cost;
+                    c2.InterestRate = inRate;
+                    c2.CustomerID = customerList.Count + 1;
+                    double pmt = cost / 360;
+                    c2.Payments.Add(DateTime.Now, pmt);
+                    c2.MortgageRemaining = cost;
+
+                    customerList.Add(c2);
+
+                    Console.WriteLine($"{c2.FirstName} {c2.LastName} ({c2.CustomerID}) : {c2.Address} \nProperty Cost: {c2.PropertyCost.ToString("C")} | Mortgage remaining: {c2.MortgageRemaining.ToString("C")} | Interest Rate: {c2.InterestRate.ToString("P")} | Monthly Payment: {pmt.ToString("C")}");
+
+                }
+                Console.WriteLine("\nWould you like to add another customer?");
+                ans2 = Console.ReadLine();
+
+            } while (ans2[0] == 'y');
+            
+
+            Console.WriteLine("\nIs there a specific customer you would like to search for? (Y/N)");
             string ans = Console.ReadLine().ToLower();
             if (ans[0] == 'y')
             {
-                Console.WriteLine("Which customers information would you like to see? (Search by customer ID)");
+                Console.WriteLine("\nWhich customers information would you like to see? (Search by customer ID)");
                 double searchID = Convert.ToDouble(Console.ReadLine());
                 foreach (Customer customers in customerList)
                 {
@@ -81,6 +131,14 @@ namespace ShowMeWhatYouLearned_ExtraCredit
             {
                 Environment.Exit(-1);
             }
+
+            //foreach (Customer customers in customerList)
+            //{
+            //    foreach (double payment in customers.Payments.Values)
+            //    {
+            //        Console.WriteLine($"Monthly Payment: {payment}");
+            //    }
+            //}
 
         }
     }
