@@ -8,14 +8,14 @@ namespace ShowMeWhatYouLearned_ExtraCredit
     {
         static void Main(string[] args)
         {
-            string[] CustomerInfo = File.ReadAllLines("HomeMortgageSample");
+            string[] CustomerInfo = File.ReadAllLines("HomeMortgageSample.csv");
 
             List<Customer> customerList = new List<Customer>();
 
             //id,first_name,last_name,address,property_cost,mortgage_remaining,interest_rate,date,payment
             // 0      1         2        3           4               5                 5       7     8
 
-            for (int i = 0; i < CustomerInfo.Length; i++)
+            for (int i = 1; i < CustomerInfo.Length; i++)
             {
                 string custInfo = CustomerInfo[i];
 
@@ -39,9 +39,9 @@ namespace ShowMeWhatYouLearned_ExtraCredit
 
             foreach (Customer customers in customerList)
             {
-                if (true)
+                if (customers.MortgageRemaining > 150000)
                 {
-
+                    Console.WriteLine(customers);
                 }
             }
         }
