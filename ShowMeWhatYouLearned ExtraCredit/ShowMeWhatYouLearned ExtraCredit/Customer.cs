@@ -31,7 +31,7 @@ namespace ShowMeWhatYouLearned_ExtraCredit
 
         public override string ToString()
         {
-            string instance = $"{LastName}, {FirstName} ({CustomerID}): Remaining Mortgage Value: {MortgageRemaining}";
+            string instance = $"{LastName}, {FirstName} ({CustomerID}): Remaining Mortgage Value: {MortgageRemaining.ToString("C")}";
             return instance;
         }
 

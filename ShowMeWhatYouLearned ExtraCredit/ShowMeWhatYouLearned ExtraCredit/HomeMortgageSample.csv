@@ -1,81 +1,81 @@
 id,first_name,last_name,address,property_cost,mortgage_remaining,interest_rate,date,payment
-1,Alanson,Liebermann,9238 Lerdahl Lane,"$422,214.52 ",$0.00 ,0.0462,3/12/2021,1410
-2,Mikey,Hobbing,8 Merchant Center,"$186,915.98 ","$176,677.00 ",0.0395,3/7/2021,737
-3,Wait,Mersh,44286 Hintze Way,"$313,421.65 ","$297,167.00 ",0.0405,3/12/2021,1636
-4,Deanna,Kinnen,8 Anthes Place,"$257,225.06 ","$59,385.00 ",0.0256,3/5/2021,1481
-5,Britteny,Raincin,0887 Washington Plaza,"$76,105.71 ","$32,113.00 ",0.0345,3/2/2021,1609
-6,Clerissa,Whetland,78 Bluejay Place,"$520,395.24 ","$368,088.00 ",0.0361,3/21/2021,1010
-7,Leupold,Cashell,37067 Bobwhite Street,"$218,725.34 ","$135,071.00 ",0.0392,3/12/2021,1752
-8,Zed,Golton,225 Meadow Ridge Center,"$312,124.21 ","$248,408.00 ",0.0272,3/15/2021,1288
-9,Cayla,MacFie,482 Stang Drive,"$117,707.73 ","$80,144.00 ",0.0241,3/13/2021,1737
-10,Shanna,Dumini,62 Arizona Circle,"$565,199.72 ","$469,441.00 ",0.0243,3/13/2021,724
-11,Kanya,Eisold,74705 Mockingbird Street,"$611,945.10 ","$130,627.00 ",0.0474,3/26/2021,1205
-12,Frasquito,Blaik,8 Sullivan Trail,"$425,543.83 ","$176,153.00 ",0.0377,3/15/2021,1876
-13,Garek,Strotton,0 Farmco Trail,"$474,490.73 ","$315,239.00 ",0.0341,3/28/2021,931
-14,Skelly,Jolin,6728 American Ash Court,"$438,552.52 ","$372,570.00 ",0.0446,3/30/2021,1044
-15,Ruthann,Give,222 Eagan Street,"$113,827.79 ","$106,555.00 ",0.0433,3/27/2021,1034
-16,Ileana,Blyde,089 Warner Crossing,"$364,182.58 ","$164,981.00 ",0.0367,3/1/2021,1116
-17,Tessy,Proudler,21 Village Terrace,"$722,515.65 ","$236,991.00 ",0.0389,3/6/2021,1154
-18,Francklyn,Stogill,61406 Commercial Crossing,"$719,399.30 ","$337,186.00 ",0.0302,3/5/2021,781
-19,Lynda,Else,59 Miller Street,"$606,707.91 ","$3,882.00 ",0.0262,3/1/2021,1574
-20,Adore,Rossborough,0 Pierstorff Circle,"$398,612.76 ","$61,726.00 ",0.0476,3/18/2021,1517
-21,Jory,Songhurst,1018 Stone Corner Hill,"$463,581.67 ","$186,790.00 ",0.0368,3/9/2021,1353
-22,Bennie,Brenton,19368 Farwell Circle,"$714,183.51 ","$230,548.00 ",0.0298,3/30/2021,1599
-23,Dona,Iannitti,1 Burrows Drive,"$194,102.88 ","$109,476.00 ",0.0349,3/7/2021,1074
-24,Archibold,Meharry,158 Bonner Center,"$118,145.66 ","$27,453.00 ",0.0222,3/7/2021,1988
-25,Kellby,Laybourn,514 Becker Pass,"$129,102.77 ",$0.00 ,0.0442,3/7/2021,1815
-26,Evangelia,Emloch,4 Schurz Road,"$325,137.66 ","$198,062.00 ",0.0294,3/3/2021,1858
-27,Farrel,Cayton,13 Scofield Pass,"$670,053.79 ","$310,460.00 ",0.0347,3/7/2021,786
-28,Pip,Ducarne,9 Corry Plaza,"$328,674.11 ","$270,792.00 ",0.0287,3/13/2021,1803
-29,Hammad,Whitelock,36 Lake View Point,"$494,075.25 ","$199,043.00 ",0.0259,3/22/2021,1707
-30,Elsi,Moorcroft,8709 Warrior Parkway,"$688,456.52 ","$474,630.00 ",0.0339,3/11/2021,914
-31,Renelle,Gravie,3161 Onsgard Avenue,"$529,751.82 ","$66,272.00 ",0.0388,3/24/2021,1886
-32,Magdalen,Bradborne,176 La Follette Way,"$315,320.13 ","$294,959.00 ",0.0304,3/7/2021,1517
-33,Carr,Widdicombe,1 La Follette Court,"$397,582.41 ","$259,776.00 ",0.0457,3/19/2021,1692
-34,Cristine,Bendare,804 Park Meadow Trail,"$133,561.22 ","$58,655.00 ",0.0277,3/11/2021,814
-35,Mack,Ainsbury,640 Toban Road,"$251,663.63 ","$122,679.00 ",0.0322,3/29/2021,1107
-36,Gan,Wass,35833 Prairie Rose Way,"$582,206.94 ","$31,984.00 ",0.0218,3/14/2021,1883
-37,Alix,Jones,18023 Holy Cross Hill,"$577,022.54 ","$397,709.00 ",0.0276,3/11/2021,836
-38,Eloisa,Hadwick,2669 Mccormick Park,"$703,159.38 ","$131,566.00 ",0.0413,3/23/2021,1403
-39,Dixie,Blowen,427 1st Place,"$519,175.07 ","$507,936.00 ",0.0423,3/12/2021,981
-40,Roberta,Hazelby,638 Hoffman Plaza,"$306,996.34 ","$2,263.00 ",0.0261,3/14/2021,1307
-41,Easter,Hindmoor,90 Carberry Plaza,"$360,282.45 ","$228,481.00 ",0.0296,3/2/2021,1170
-42,Doria,Sheather,6 Moulton Hill,"$131,657.82 ","$45,692.00 ",0.0317,3/10/2021,1874
-43,Galen,Lennarde,10 Clemons Parkway,"$698,918.22 ","$559,493.00 ",0.0236,3/11/2021,1444
-44,Winona,Feye,53 Milwaukee Alley,"$150,206.94 ","$119,354.00 ",0.0498,3/21/2021,961
-45,Elianora,Cremins,9 Stephen Drive,"$422,859.52 ","$245,044.00 ",0.0327,3/23/2021,833
-46,Guthrie,Plunkett,06061 Gateway Center,"$545,456.21 ","$225,516.00 ",0.031,3/24/2021,1741
-47,Mathilda,Tollfree,76 Elka Avenue,"$483,728.01 ","$73,875.00 ",0.0355,3/5/2021,1680
-48,Niel,Ivey,195 Holmberg Alley,"$123,611.87 ","$101,546.00 ",0.0444,3/4/2021,1010
-49,Merrill,Baldrick,834 Surrey Terrace,"$183,555.94 ","$71,763.00 ",0.0292,3/22/2021,1316
-50,Pammy,Dulany,8803 Pepper Wood Trail,"$336,513.26 ","$260,377.00 ",0.0489,3/11/2021,1903
-51,Skye,Lovelady,538 Norway Maple Center,"$382,975.44 ","$355,544.00 ",0.0243,3/1/2021,1960
-52,Cacilie,Scola,004 Washington Circle,"$412,949.38 ","$144,582.00 ",0.0356,3/14/2021,1861
-53,Julie,Holstein,005 Caliangt Crossing,"$240,390.25 ","$23,497.00 ",0.0243,3/26/2021,1944
-54,Blanche,Godsil,9 Dahle Pass,"$419,315.31 ","$100,080.00 ",0.0258,3/27/2021,1538
-55,Barrie,Tennant,459 Dunning Plaza,"$728,060.48 ","$585,717.00 ",0.0366,3/8/2021,1297
-56,Cookie,Fullbrook,7654 Cody Trail,"$439,366.68 ","$344,885.00 ",0.0272,3/7/2021,1969
-57,Brit,Cottie,806 Cascade Way,"$351,896.17 ","$319,512.00 ",0.0448,3/4/2021,1905
-58,Editha,Mallion,5 Shelley Terrace,"$197,035.08 ","$131,018.00 ",0.0265,3/24/2021,827
-59,Garrard,Ronci,1 Blackbird Court,"$132,688.18 ","$99,080.00 ",0.0394,3/24/2021,1676
-60,Marnie,Sambidge,9 Grasskamp Place,"$410,083.97 ","$216,055.00 ",0.0209,3/6/2021,1708
-61,Lorie,Karadzas,9896 Spaight Circle,"$360,169.30 ","$350,292.00 ",0.0465,3/13/2021,1695
-62,Frieda,Castilljo,46576 Hauk Junction,"$578,674.31 ","$411,466.00 ",0.0247,3/29/2021,1493
-63,Isa,Thorn,1913 Leroy Trail,"$559,711.08 ","$360,786.00 ",0.0344,3/14/2021,942
-64,Joanna,Pelerin,1149 Maywood Crossing,"$375,883.19 ","$70,750.00 ",0.024,3/16/2021,1631
-65,Chad,Keyme,642 Barnett Crossing,"$250,011.69 ","$218,659.00 ",0.0353,3/1/2021,846
-66,Gladi,Applebee,7 Calypso Street,"$487,782.51 ","$149,934.00 ",0.0478,3/19/2021,1591
-67,Lucina,Havik,0 Gerald Place,"$464,505.97 ","$115,479.00 ",0.0318,3/29/2021,1105
-68,Stephan,Syers,75 Banding Junction,"$242,735.06 ","$27,206.00 ",0.0345,3/15/2021,1588
-69,Sherry,Waiting,6837 Steensland Crossing,"$434,674.84 ","$379,114.00 ",0.0293,3/30/2021,1872
-70,Alister,Gait,66472 Kenwood Parkway,"$204,683.78 ","$112,712.00 ",0.0343,3/14/2021,1994
-71,Chan,January 1st,4 Kim Drive,"$508,091.47 ","$507,561.00 ",0.0435,3/1/2021,1916
-72,Sibella,Harrie,9 Barby Court,"$223,602.74 ","$31,828.00 ",0.0386,3/10/2021,1165
-73,Griffin,Buckmaster,8 Becker Place,"$183,464.57 ","$30,948.00 ",0.0257,3/1/2021,1535
-74,Britte,Scard,4531 Fuller Hill,"$692,544.79 ","$619,177.00 ",0.0442,3/10/2021,1937
-75,Willamina,Brainsby,521 Nobel Junction,"$486,361.12 ","$299,486.00 ",0.0248,3/18/2021,998
-76,Major,Wasmer,9 Pine View Alley,"$270,058.19 ","$76,214.00 ",0.0465,3/8/2021,1120
-77,Fernanda,Sweetman,54 Vidon Place,"$161,271.57 ","$53,870.00 ",0.0326,3/10/2021,979
-78,Hersh,Murdie,042 Novick Alley,"$118,229.91 ",$0.00 ,0.0327,3/17/2021,1856
-79,Pinchas,Cossington,28 South Pass,"$675,646.84 ","$20,262.00 ",0.0441,3/28/2021,1666
-80,Sallie,Childrens,46 Ilene Point,"$517,800.86 ","$338,746.00 ",0.0225,3/22/2021,1205
+1,Alanson,Liebermann,9238 Lerdahl Lane,422214.52,0,0.0462,3/12/2021,1410
+2,Mikey,Hobbing,8 Merchant Center,186915.98,176677,0.0395,3/7/2021,737
+3,Wait,Mersh,44286 Hintze Way,313421.65,297167,0.0405,3/12/2021,1636
+4,Deanna,Kinnen,8 Anthes Place,257225.06,59385,0.0256,3/5/2021,1481
+5,Britteny,Raincin,0887 Washington Plaza,76105.71,32113,0.0345,3/2/2021,1609
+6,Clerissa,Whetland,78 Bluejay Place,520395.24,368088,0.0361,3/21/2021,1010
+7,Leupold,Cashell,37067 Bobwhite Street,218725.34,135071,0.0392,3/12/2021,1752
+8,Zed,Golton,225 Meadow Ridge Center,312124.21,248408,0.0272,3/15/2021,1288
+9,Cayla,MacFie,482 Stang Drive,117707.73,80144,0.0241,3/13/2021,1737
+10,Shanna,Dumini,62 Arizona Circle,565199.72,469441,0.0243,3/13/2021,724
+11,Kanya,Eisold,74705 Mockingbird Street,611945.1,130627,0.0474,3/26/2021,1205
+12,Frasquito,Blaik,8 Sullivan Trail,425543.83,176153,0.0377,3/15/2021,1876
+13,Garek,Strotton,0 Farmco Trail,474490.73,315239,0.0341,3/28/2021,931
+14,Skelly,Jolin,6728 American Ash Court,438552.52,372570,0.0446,3/30/2021,1044
+15,Ruthann,Give,222 Eagan Street,113827.79,106555,0.0433,3/27/2021,1034
+16,Ileana,Blyde,089 Warner Crossing,364182.58,164981,0.0367,3/1/2021,1116
+17,Tessy,Proudler,21 Village Terrace,722515.65,236991,0.0389,3/6/2021,1154
+18,Francklyn,Stogill,61406 Commercial Crossing,719399.3,337186,0.0302,3/5/2021,781
+19,Lynda,Else,59 Miller Street,606707.91,3882,0.0262,3/1/2021,1574
+20,Adore,Rossborough,0 Pierstorff Circle,398612.76,61726,0.0476,3/18/2021,1517
+21,Jory,Songhurst,1018 Stone Corner Hill,463581.67,186790,0.0368,3/9/2021,1353
+22,Bennie,Brenton,19368 Farwell Circle,714183.51,230548,0.0298,3/30/2021,1599
+23,Dona,Iannitti,1 Burrows Drive,194102.88,109476,0.0349,3/7/2021,1074
+24,Archibold,Meharry,158 Bonner Center,118145.66,27453,0.0222,3/7/2021,1988
+25,Kellby,Laybourn,514 Becker Pass,129102.77,0,0.0442,3/7/2021,1815
+26,Evangelia,Emloch,4 Schurz Road,325137.66,198062,0.0294,3/3/2021,1858
+27,Farrel,Cayton,13 Scofield Pass,670053.79,310460,0.0347,3/7/2021,786
+28,Pip,Ducarne,9 Corry Plaza,328674.11,270792,0.0287,3/13/2021,1803
+29,Hammad,Whitelock,36 Lake View Point,494075.25,199043,0.0259,3/22/2021,1707
+30,Elsi,Moorcroft,8709 Warrior Parkway,688456.52,474630,0.0339,3/11/2021,914
+31,Renelle,Gravie,3161 Onsgard Avenue,529751.82,66272,0.0388,3/24/2021,1886
+32,Magdalen,Bradborne,176 La Follette Way,315320.13,294959,0.0304,3/7/2021,1517
+33,Carr,Widdicombe,1 La Follette Court,397582.41,259776,0.0457,3/19/2021,1692
+34,Cristine,Bendare,804 Park Meadow Trail,133561.22,58655,0.0277,3/11/2021,814
+35,Mack,Ainsbury,640 Toban Road,251663.63,122679,0.0322,3/29/2021,1107
+36,Gan,Wass,35833 Prairie Rose Way,582206.94,31984,0.0218,3/14/2021,1883
+37,Alix,Jones,18023 Holy Cross Hill,577022.54,397709,0.0276,3/11/2021,836
+38,Eloisa,Hadwick,2669 Mccormick Park,703159.38,131566,0.0413,3/23/2021,1403
+39,Dixie,Blowen,427 1st Place,519175.07,507936,0.0423,3/12/2021,981
+40,Roberta,Hazelby,638 Hoffman Plaza,306996.34,2263,0.0261,3/14/2021,1307
+41,Easter,Hindmoor,90 Carberry Plaza,360282.45,228481,0.0296,3/2/2021,1170
+42,Doria,Sheather,6 Moulton Hill,131657.82,45692,0.0317,3/10/2021,1874
+43,Galen,Lennarde,10 Clemons Parkway,698918.22,559493,0.0236,3/11/2021,1444
+44,Winona,Feye,53 Milwaukee Alley,150206.94,119354,0.0498,3/21/2021,961
+45,Elianora,Cremins,9 Stephen Drive,422859.52,245044,0.0327,3/23/2021,833
+46,Guthrie,Plunkett,06061 Gateway Center,545456.21,225516,0.031,3/24/2021,1741
+47,Mathilda,Tollfree,76 Elka Avenue,483728.01,73875,0.0355,3/5/2021,1680
+48,Niel,Ivey,195 Holmberg Alley,123611.87,101546,0.0444,3/4/2021,1010
+49,Merrill,Baldrick,834 Surrey Terrace,183555.94,71763,0.0292,3/22/2021,1316
+50,Pammy,Dulany,8803 Pepper Wood Trail,336513.26,260377,0.0489,3/11/2021,1903
+51,Skye,Lovelady,538 Norway Maple Center,382975.44,355544,0.0243,3/1/2021,1960
+52,Cacilie,Scola,004 Washington Circle,412949.38,144582,0.0356,3/14/2021,1861
+53,Julie,Holstein,005 Caliangt Crossing,240390.25,23497,0.0243,3/26/2021,1944
+54,Blanche,Godsil,9 Dahle Pass,419315.31,100080,0.0258,3/27/2021,1538
+55,Barrie,Tennant,459 Dunning Plaza,728060.48,585717,0.0366,3/8/2021,1297
+56,Cookie,Fullbrook,7654 Cody Trail,439366.68,344885,0.0272,3/7/2021,1969
+57,Brit,Cottie,806 Cascade Way,351896.17,319512,0.0448,3/4/2021,1905
+58,Editha,Mallion,5 Shelley Terrace,197035.08,131018,0.0265,3/24/2021,827
+59,Garrard,Ronci,1 Blackbird Court,132688.18,99080,0.0394,3/24/2021,1676
+60,Marnie,Sambidge,9 Grasskamp Place,410083.97,216055,0.0209,3/6/2021,1708
+61,Lorie,Karadzas,9896 Spaight Circle,360169.3,350292,0.0465,3/13/2021,1695
+62,Frieda,Castilljo,46576 Hauk Junction,578674.31,411466,0.0247,3/29/2021,1493
+63,Isa,Thorn,1913 Leroy Trail,559711.08,360786,0.0344,3/14/2021,942
+64,Joanna,Pelerin,1149 Maywood Crossing,375883.19,70750,0.024,3/16/2021,1631
+65,Chad,Keyme,642 Barnett Crossing,250011.69,218659,0.0353,3/1/2021,846
+66,Gladi,Applebee,7 Calypso Street,487782.51,149934,0.0478,3/19/2021,1591
+67,Lucina,Havik,0 Gerald Place,464505.97,115479,0.0318,3/29/2021,1105
+68,Stephan,Syers,75 Banding Junction,242735.06,27206,0.0345,3/15/2021,1588
+69,Sherry,Waiting,6837 Steensland Crossing,434674.84,379114,0.0293,3/30/2021,1872
+70,Alister,Gait,66472 Kenwood Parkway,204683.78,112712,0.0343,3/14/2021,1994
+71,Chan,January 1st,4 Kim Drive,508091.47,507561,0.0435,3/1/2021,1916
+72,Sibella,Harrie,9 Barby Court,223602.74,31828,0.0386,3/10/2021,1165
+73,Griffin,Buckmaster,8 Becker Place,183464.57,30948,0.0257,3/1/2021,1535
+74,Britte,Scard,4531 Fuller Hill,692544.79,619177,0.0442,3/10/2021,1937
+75,Willamina,Brainsby,521 Nobel Junction,486361.12,299486,0.0248,3/18/2021,998
+76,Major,Wasmer,9 Pine View Alley,270058.19,76214,0.0465,3/8/2021,1120
+77,Fernanda,Sweetman,54 Vidon Place,161271.57,53870,0.0326,3/10/2021,979
+78,Hersh,Murdie,042 Novick Alley,118229.91,0,0.0327,3/17/2021,1856
+79,Pinchas,Cossington,28 South Pass,675646.84,20262,0.0441,3/28/2021,1666
+80,Sallie,Childrens,46 Ilene Point,517800.86,338746,0.0225,3/22/2021,1205
