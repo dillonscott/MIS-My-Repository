@@ -41,9 +41,47 @@ namespace ShowMeWhatYouLearned_ExtraCredit
             {
                 if (customers.MortgageRemaining > 150000)
                 {
+                    double totatInt = customers.CalculateInt();
                     Console.WriteLine(customers);
+                    Console.WriteLine($"\t{customers.FirstName} {customers.LastName} ({customers.CustomerID}) will pay total interest of {totatInt.ToString("C")}");
+
                 }
             }
+
+            foreach (Customer customers in customerList)
+            {
+                if (customers.MortgageRemaining == 0)
+                {
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine(customers);
+                    Console.ForegroundColor = ConsoleColor.White;
+                }
+            }
+
+            Console.WriteLine("Is there a specific customer you would like to search for? (Y/N)");
+            string ans = Console.ReadLine().ToLower();
+            if (ans[0] == 'y')
+            {
+                Console.WriteLine("Which customers information would you like to see? (Search by customer ID)");
+                double searchID = Convert.ToDouble(Console.ReadLine());
+                foreach (Customer customers in customerList)
+                {
+                    if (customers.CustomerID == searchID)
+                    {
+                        Console.WriteLine($"{customers.FirstName} {customers.LastName} ({customers.CustomerID}) : {customers.Address} \nProperty Cost: {customers.PropertyCost.ToString("C")} | Mortgage remaining: {customers.MortgageRemaining.ToString("C")} | Interest Rate: {customers.InterestRate.ToString("P")}");
+                    }
+                    
+                    
+                };
+
+                
+
+            }
+            else
+            {
+                Environment.Exit(-1);
+            }
+
         }
     }
 }
