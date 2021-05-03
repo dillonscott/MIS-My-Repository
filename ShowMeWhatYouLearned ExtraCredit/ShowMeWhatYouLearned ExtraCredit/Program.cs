@@ -13,7 +13,7 @@ namespace ShowMeWhatYouLearned_ExtraCredit
             List<Customer> customerList = new List<Customer>();
 
             //id,first_name,last_name,address,property_cost,mortgage_remaining,interest_rate,date,payment
-            // 0      1         2        3           4               5                 5       7     8
+            // 0      1         2        3           4               5                 6       7     8
 
             for (int i = 1; i < CustomerInfo.Length; i++)
             {
