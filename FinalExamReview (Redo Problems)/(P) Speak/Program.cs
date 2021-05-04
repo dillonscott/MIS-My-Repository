@@ -7,7 +7,7 @@ namespace _P__Speak
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a type of animal");
-            string animal = Console.ReadLine();
+            string animal = Console.ReadLine().ToLower();
 
             Console.WriteLine($"A {animal} makes the sound {Speak(animal)}");
 
@@ -17,11 +17,11 @@ namespace _P__Speak
 
         static string Speak (string animal) 
         {
-            
+            string sound;
 
             if (animal == "dog")
             {
-               string sound = "Woof";
+               sound = "Woof";
             }
             else if (animal == "cow")
             {
@@ -30,6 +30,10 @@ namespace _P__Speak
             else if (animal == "horse")
             {
                 sound = "Neighhhhh";
+            }
+            else
+            {
+                sound = "GLOGLOGOMDP";
             }
 
 
