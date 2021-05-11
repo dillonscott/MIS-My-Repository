@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "(P) Speak", "(P) Speak\(P) Speak.csproj", "{C8BD92DD-3519-4EE7-93B0-9AA69061C1F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(P) Functions - Calculator", "(P) Functions - Calculator\(P) Functions - Calculator.csproj", "{B9057281-D732-49CB-BC83-7D8872AE5C80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "(P) Functions - Calculator", "(P) Functions - Calculator\(P) Functions - Calculator.csproj", "{B9057281-D732-49CB-BC83-7D8872AE5C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeShop - HW6", "CoffeeShop - HW6\CoffeeShop - HW6.csproj", "{C347B66A-64CD-4D69-805E-30A1F4C9AC41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B9057281-D732-49CB-BC83-7D8872AE5C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9057281-D732-49CB-BC83-7D8872AE5C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9057281-D732-49CB-BC83-7D8872AE5C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C347B66A-64CD-4D69-805E-30A1F4C9AC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C347B66A-64CD-4D69-805E-30A1F4C9AC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C347B66A-64CD-4D69-805E-30A1F4C9AC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C347B66A-64CD-4D69-805E-30A1F4C9AC41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
