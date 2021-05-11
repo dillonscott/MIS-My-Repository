@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "(P) Speak", "(P) Speak\(P) 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "(P) Functions - Calculator", "(P) Functions - Calculator\(P) Functions - Calculator.csproj", "{B9057281-D732-49CB-BC83-7D8872AE5C80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeShop - HW6", "CoffeeShop - HW6\CoffeeShop - HW6.csproj", "{C347B66A-64CD-4D69-805E-30A1F4C9AC41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeeShop - HW6", "CoffeeShop - HW6\CoffeeShop - HW6.csproj", "{C347B66A-64CD-4D69-805E-30A1F4C9AC41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(P) Classes - Cereal", "(P) Classes - Cereal\(P) Classes - Cereal.csproj", "{D9537116-2C6F-40DA-83E8-6CB4DF29DBF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "(P) Classes - Cereal", "(P) Classes - Cereal\(P) Classes - Cereal.csproj", "{D9537116-2C6F-40DA-83E8-6CB4DF29DBF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW8 ClassesExtended", "HW8 ClassesExtended\HW8 ClassesExtended.csproj", "{8216B97D-DF6F-4DC0-B4B2-75463949A1A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D9537116-2C6F-40DA-83E8-6CB4DF29DBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9537116-2C6F-40DA-83E8-6CB4DF29DBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9537116-2C6F-40DA-83E8-6CB4DF29DBF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8216B97D-DF6F-4DC0-B4B2-75463949A1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8216B97D-DF6F-4DC0-B4B2-75463949A1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8216B97D-DF6F-4DC0-B4B2-75463949A1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8216B97D-DF6F-4DC0-B4B2-75463949A1A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

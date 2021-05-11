@@ -1,0 +1,101 @@
+AppointmentDate,FirstName,MiddleInitial,LastName,ID,FluVaccine,Weight,AddMedications
+05/10/2020,Demetria,Z,Rowe,1,N,97,Sertraline HCl; Diazepam; Cymbalta; Niaspan
+11/10/2020,Linus,B,Chan,2,N,110,Furosemide; Singulair; Fluticasone Propionate; Metoprolol Succinate
+06/30/2020,Fritz,Q,Ford,3,N,124,Furosemide; Carvedilol; Symbicort; Penicillin VK
+12/17/2020,Sopoline,A,Saunders,4,N,115,Amlodipine Besylate; Symbicort; Lisinopril/Hydrochlorothiazide
+04/08/2021,Fulton,W,Bowman,5,N,100,Furosemide; Levoxyl; Amoxicillin
+07/21/2020,Odette,P,Fuller,6,N,138,Fluconazole
+08/21/2020,Ima,K,Payne,7,N,179,Lorazepam; Levaquin
+01/16/2021,Brody,O,Mitchell,8,N,100,Celebrex; Proair HFA
+10/04/2020,Elizabeth,S,Ruiz,9,N,119,
+11/16/2020,Charlotte,M,Atkinson,10,N,162,Cephalexin; Klor-Con M20; Amlodipine Besylate
+09/20/2020,Xander,I,Frost,11,N,110,Fluticasone Propionate; Spiriva Handihaler; Simvastatin; Clonazepam
+10/08/2020,Quinn,G,Fowler,12,N,143,Sertraline HCl
+04/17/2020,Clayton,S,Alston,13,N,157,Amoxicillin; Ibuprofen (Rx)
+10/21/2020,Dean,N,Hunter,14,N,112,Alprazolam; Premarin; Folic Acid
+12/15/2020,Rhona,D,Martin,15,N,131,Trazodone HCl; Lisinopril
+06/30/2020,Molly,T,Rowland,16,N,137,Fluoxetine HCl; Sertraline HCl; Simvastatin; Omeprazole (Rx)
+01/03/2021,Sloane,N,Wilkins,17,N,161,Promethazine HCl; Digoxin
+12/12/2020,Nevada,Q,Lara,18,N,166,Prednisone
+08/11/2020,Fritz,Q,Ford,3,Y,130,Prozac
+02/23/2021,Ashely,G,Pennington,20,N,131,
+02/18/2020,Beatrice,T,Black,21,N,137,
+01/16/2020,Leroy,U,Kinney,22,N,121,Lantus; Digoxin
+12/02/2020,Cain,N,Foster,23,N,123,Hydrochlorothiazide
+03/23/2020,Ivan,S,Burton,24,N,132,Zyprexa; Cephalexin; Potassium Chloride
+12/11/2020,Byron,N,Green,25,N,93,Seroquel
+05/02/2020,Sharon,D,Roberts,26,N,119,Potassium Chloride; Ventolin HFA
+03/19/2021,Daria,S,Booker,27,N,137,Lisinopril; Tricor; Prednisone
+11/16/2020,MacKenzie,L,Mercer,28,N,98,Amoxicillin; Celebrex; Nasonex; Losartan Potassium
+11/18/2020,Amal,J,Padilla,29,N,179,Triamcinolone Acetonide
+01/29/2021,Colin,K,Price,30,N,149,Namenda; Azithromycin; Amphetamine Salts; Metoprolol Succinate
+10/09/2020,Cathleen,D,Stout,31,N,92,
+07/26/2020,Darius,L,Foster,32,N,114,Hydrocodone/APAP
+04/07/2021,Bruce,H,Lyons,33,N,178,Spiriva Handihaler; Hydrochlorothiazide
+12/23/2020,Cora,W,Berry,34,N,162,
+01/26/2020,Ella,N,Richard,35,N,98,Ranitidine HCl
+03/11/2021,Clio,K,Guy,36,N,114,Zolpidem Tartrate; Fluoxetine HCl; Oxycodone HCl; Klor-Con M20
+06/01/2020,Kyle,H,Vang,37,N,108,Fluticasone Propionate; Lisinopril; Klor-Con M20
+02/21/2020,Hollee,F,Cotton,38,N,158,Namenda; Prednisone
+02/02/2021,Abigail,P,Adkins,39,N,115,Plavix; Metformin HCl
+03/11/2021,Colin,K,Price,30,Y,140,Lexapro
+03/13/2021,Carissa,S,Britt,41,N,159,Gabapentin; Bystolic
+02/19/2021,Althea,C,Hardin,42,N,95,Atenolol; Folic Acid; Pantoprazole Sodium; Tamsulosin HCl
+07/13/2020,Howard,D,Haney,43,N,121,Amoxicillin; Premarin; Seroquel; Vyvanse
+07/03/2020,Whoopi,J,Battle,44,N,173,Metoprolol Succinatee; Ranitidine HCl
+02/09/2021,Brynn,K,Morse,45,N,165,Penicillin VK; Furosemide; Metoprolol Succinate
+09/05/2020,Jack,X,Mccarty,46,N,97,Albuterol
+12/14/2020,Leo,Y,Barr,47,N,131,Atenolol; Meloxicam; Amlodipine Besylate
+08/20/2020,Penelope,U,Jarvis,48,N,171,Diazepam; Lorazepam
+08/14/2020,Abel,M,Ortiz,49,N,166,Fluticasone Propionate; Cheratussin AC; Vytorin; Azithromycin
+02/13/2020,Harlan,D,Knox,50,N,176,Plavix; Metoprolol Succinate; Naproxen; Simvastatin
+04/26/2021,Callum,X,Barlow,51,N,93,Metoprolol Succinate; Hydrochlorothiazide; Tramadol HCl; Oxycodone HCl
+01/12/2020,Remedios,V,Berger,52,N,147,Ventolin HFA; Levaquin
+09/05/2020,Darius,L,Foster,32,Y,130,Lexapro; Prozac
+12/01/2020,Plato,N,Dennis,54,N,151,Potassium Chloride; Lisinopril; Spiriva Handihaler
+08/26/2020,Irma,Z,Malone,55,N,157,Metformin HCl; Loestrin 24 Fe; Cialis; Pantoprazole Sodium
+01/30/2021,Molly,B,Flynn,56,N,158,Amlodipine Besylate
+03/07/2021,Ayanna,F,Velazquez,57,N,144,Simvastatin; Tri-Sprintec
+12/01/2020,Abel,M,Ortiz,49,Y,166,Synthroid
+05/27/2020,Ezra,G,Hooper,59,N,154,Lisinopril; Alprazolam
+09/07/2020,Fitzgerald,A,Livingston,60,N,98,Folic Acid; Cymbalta; Carvedilol
+01/07/2021,Ramona,K,Holman,61,N,161,Penicillin VK; Doxycycline Hyclate; Alprazolam; Glyburide
+10/02/2020,Rylee,V,Nolan,62,N,167,Nexium
+03/21/2020,Kiayada,N,Dickson,63,N,121,Zetia; Plavix; Gabapentin
+04/25/2021,Karleigh,T,Brady,64,N,164,Tramadol HCl; Lexapro; Enalapril Maleate; Metoprolol Succinatee
+03/31/2021,Tamara,E,Huber,65,N,174,Cyclobenzaprin HCl; Methylprednisolone; Amitriptyline HCl
+03/03/2020,Chase,C,Fitzpatrick,66,N,136,Amoxicillin; Simvastatin
+03/29/2021,Driscoll,S,Wong,67,N,165,Metoprolol Succinate; Premarin; Ciprofloxacin HCl
+08/10/2020,Cade,O,Robinson,68,N,127,Lantus Solostar; Alprazolam; Lisinopril; Simvastatin
+07/07/2020,Timon,Z,Puckett,69,N,102,Promethazine HCl; Fluticasone Propionate; Lorazepam
+02/17/2021,Travis,G,Daniels,70,N,149,Amoxicillin Trihydrate/Potassium Clavulanate
+12/17/2020,Juliet,L,Norton,71,N,95,Gianvi
+03/09/2021,Althea,Z,Fletcher,72,N,97,Potassium Chloride; Atenolol; Amoxicillin Trihydrate/Potassium Clavulanate
+04/07/2020,Glenna,P,Jefferson,73,N,171,
+03/09/2021,Ramona,K,Holman,61,Y,150,Lexapro; Prozac
+11/09/2020,Raymond,T,Curry,75,N,171,Venlafaxine HCl ER; Celebrex; Hydrochlorothiazide
+06/12/2020,Jolene,Y,Bird,76,N,94,Diazepam; Glipizide; Lisinopril
+11/24/2020,Seth,E,Ferguson,77,N,128,Advil
+03/28/2021,Casey,S,Hood,78,N,167,Simvastatin; Amlodipine Besylate
+06/28/2020,Henry,A,Lowe,79,N,110,Symbicort; Januvia; Tri-Sprintec; Tramadol HCl
+02/03/2020,Alice,H,Boyd,80,N,175,Amlodipine Besylate
+04/23/2020,Honorato,R,Randall,81,N,176,Triamterene/Hydrochlorothiazide; Warfarin Sodium; Amlodipine Besylate
+02/05/2021,Dana,P,Richardson,82,N,175,Lorazepam; Bystolic; Citalopram HBR; Paroxetine HCl
+07/24/2020,Mona,Q,Berry,83,N,111,Promethazine HCl; Gianvi; Atenolol
+11/29/2020,Dawn,P,Park,84,N,178,Sertraline HCl
+03/23/2020,Myles,K,Ramsey,85,N,111,Meloxicam; Abilify
+02/13/2021,Martin,H,Sears,86,N,173,Benicar HCT; Azithromycin; Amoxicillin; Amitriptyline HCl
+09/29/2020,Cairo,G,Shaw,87,N,141,Zolpidem Tartrate; Actos; Ranitidine HCl
+02/17/2020,Rebekah,G,England,88,N,112,Meloxicam; Carisoprodol; Allopurinol; Alendronate Sodium
+04/15/2020,Ulysses,B,Manning,89,N,94,Hydrochlorothiazide
+05/16/2020,Shad,J,Kirk,90,N,173,Diazepam; Carvedilol; Cyclobenzaprin HCl; Doxycycline Hyclate
+09/16/2020,Anastasia,Y,Velez,91,N,109,Nasonex; Lorazepam
+01/28/2021,Lester,I,Fuentes,92,N,150,Warfarin Sodium; Premarin; Zyprexa; Lexapro
+10/29/2020,Brielle,E,Burris,93,N,96,Cymbalta; Ibuprofen (Rx); Glyburide
+09/09/2020,Kane,P,Richmond,94,N,154,
+03/09/2021,Erica,Y,Herrera,95,N,137,Penicillin VK
+08/18/2020,Nicholas,S,Lang,96,N,108,Furosemide
+02/26/2021,Perry,F,Trevino,97,N,161,Loestrin 24 Fe; Lisinopril; Diovan; LevothyroxineSodium
+03/19/2020,Helen,Y,Richard,98,N,166,
+08/08/2020,Graiden,J,Rush,99,N,140,
+02/08/2020,Miranda,K,Ferrell,100,N,128,Symbicort; Amlodipine Besylate
